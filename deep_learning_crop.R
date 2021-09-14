@@ -1,4 +1,4 @@
-# Script: Applying deep learning to satellite imagery to map rice crops ------------------------------------------------------------
+# Script: Applying deep learning to satellite imagery to map rice crops in the local GPU ------------------------------------------------------------
 # Author: Ricardo Dal'Agnol da Silva (ricds@hotmail.com)
 # Date Created: 2021-08-09
 # R version 4.1.0 (2021-05-18)
