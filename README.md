@@ -25,6 +25,7 @@ Authors: Ricardo Dalagnol, Fabien Wagner
   
 **2) Applying deep learning to satellite imagery to map rice crops in the local GPU**
 <BR>R code: *deep_learning_crop.R*
+<BR>R code for packages pre-installation: *install_packages_R.R*
 
 >i) Start with a raw satellite image<BR>
 >ii) Overlay it with samples and crop the data into patches<BR>
