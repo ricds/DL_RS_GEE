@@ -6,7 +6,7 @@ Authors: Ricardo Dalagnol, Fabien Wagner
 
 <BR><BR>
 
-*Material was used for:*
+*Material was used at:*
 
 > Ricardo Dalagnol, Fabien Wagner. 2021. Mini-course WORCAP 2021 (http://www.inpe.br/worcap/2021/): **Deep learning for Remote Sensing imagery**. *National Institute for Space Research - INPE*.
   
