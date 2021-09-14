@@ -4,7 +4,16 @@ This repo provide code and dataset for an experiment with image segmentation of 
 
 Authors: Ricardo Dalagnol, Fabien Wagner
 
+<BR><BR>
 
+*Example of the output:*
+
+| **Unet**   | **RF** |
+| ------------- | ------------- |
+| <img src="https://user-images.githubusercontent.com/9935501/133295141-52b349cc-1c4f-4306-af32-9c326bfb1b00.png" width="450" />  | <img src="https://user-images.githubusercontent.com/9935501/133295929-9cb84dd0-2d35-48cb-ba05-067b00ad6bec.png" width="450" />  |
+
+<BR><BR>
+  
 # *Codes in R language:*
 
 **1) Applying deep learning to satellite imagery to map rice crops in the local GPU**
