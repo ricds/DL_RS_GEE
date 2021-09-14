@@ -6,7 +6,7 @@ Authors: Ricardo Dalagnol, Fabien Wagner
 # *Codes in R language:*
 
 **1) Applying deep learning to satellite imagery to map rice crops in the local GPU**
-<BR>R code: deep_learning_crop.R
+<BR>R code: *deep_learning_crop.R*
 
 >i) Start with a raw satellite image<BR>
 >ii) Overlay it with samples and crop the data into patches<BR>
@@ -18,7 +18,7 @@ Authors: Ricardo Dalagnol, Fabien Wagner
 <BR>
 
 **2) Deep Learning with remote sensing data for image segmentation: example of rice crop mapping using Sentinel-2 images**
-<BR>Google Colab Jupyter notebook R code, link below
+<BR>Google Colab Jupyter notebook R code: *DL_UNet_CropExample.ipynb* - *link below for Google Colab*
 
 <a href="https://colab.research.google.com/github/ricds/DL_RS_GEE/blob/main/DL_UNet_CropExample.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
