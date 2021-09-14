@@ -1676,7 +1676,7 @@ confusionMatrix(data = validation_points$map, reference = validation_points$ref,
 i=12
 x11()
 par(mfrow = c(4,4), mar = c(1,1,1,1))
-for (i in 1:16) {
+for (i in 1:16+20) {
   plot(crop(unet_map, samples_patches_validation[i,]))
   lines(crop(field_data, samples_patches_validation[i,]))
   legend("topright", legend = "unet", bty="n")
@@ -1687,7 +1687,7 @@ for (i in 1:16) {
 x11()
 i=12
 par(mfrow = c(4,4), mar = c(1,1,1,1))
-for (i in 1:16) {
+for (i in 1:16+20) {
   plot(crop(rf_map, samples_patches_validation[i,]))
   lines(crop(field_data, samples_patches_validation[i,]))
   legend("topright", legend = "rf", bty="n")
