@@ -16,7 +16,7 @@ Authors: Ricardo Dalagnol, Fabien Wagner
   
 # *Codes in R language:*
   
-**1) Acquiring imagery from Google Earth Engine directly within R **
+**1) Acquiring imagery from Google Earth Engine directly within R**
 <BR>R code: **To include**
   
 >**To include**
