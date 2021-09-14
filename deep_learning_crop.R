@@ -1618,6 +1618,15 @@ lines(crop(field_data, new_ext))
 
 # 9) compare results quantitatively ----------------------------------------------
 
+
+# load U-Net single
+unet_map = raster("6_sampling1_prediction_singledate\\pred_mosaic\\rice_map_single.tif")
+names(unet_map) = "rice_map"
+
+# load RF
+rf_map = crop(raster("s2_stack_classified_rf_2019_2020_singledate.tif"), unet_map)
+
+
 # load validation data
 load("data_df_split_singledate.RData", verbose=T)
 length(data_df_valid$class)
@@ -1636,6 +1645,10 @@ length(fit_rf_single_pred)
 load("deep_learning_patch_samples_singledate.RData", verbose=T)
 #
 samples_patches_validation = crop(samples_patches_validation, unet_map)
+
+
+
+
 
 # sample inside the tiles
 set.seed(1)
@@ -1676,7 +1689,7 @@ confusionMatrix(data = validation_points$map, reference = validation_points$ref,
 i=12
 x11()
 par(mfrow = c(4,4), mar = c(1,1,1,1))
-for (i in 1:16+20) {
+for (i in 1:16+50) {
   plot(crop(unet_map, samples_patches_validation[i,]))
   lines(crop(field_data, samples_patches_validation[i,]))
   legend("topright", legend = "unet", bty="n")
@@ -1687,7 +1700,7 @@ for (i in 1:16+20) {
 x11()
 i=12
 par(mfrow = c(4,4), mar = c(1,1,1,1))
-for (i in 1:16+20) {
+for (i in 1:16+50) {
   plot(crop(rf_map, samples_patches_validation[i,]))
   lines(crop(field_data, samples_patches_validation[i,]))
   legend("topright", legend = "rf", bty="n")
