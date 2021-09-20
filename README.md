@@ -29,7 +29,7 @@ Authors: Ricardo Dalagnol, Fabien Wagner
 **1) Acquiring imagery from Google Earth Engine directly within R**
 <BR>R code: **To include**
   
->**To include**
+>**To include: will be added as part of the IEEE-GRSS event Oct2021**
   
 <BR>
   
