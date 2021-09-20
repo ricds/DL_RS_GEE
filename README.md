@@ -8,7 +8,7 @@ Authors: Ricardo Dalagnol, Fabien Wagner
 
 *Material was used at:*
 
-> Ricardo Dalagnol, Fabien Wagner. (15/09/2021). **Deep learning for Remote Sensing imagery**. *Mini-course WORCAP 2021 (http://www.inpe.br/worcap/2021/)*. National Institute for Space Research - INPE. (<a href=https://github.com/ricds/DL_RS_GEE/raw/main/Minicourse_DeepLearning_v1_WORCAP.pdf>Presentation Link</a>).
+> Ricardo Dalagnol, Fabien Wagner. (15/09/2021). **Deep learning for Remote Sensing imagery**. *Mini-course WORCAP 2021 (http://www.inpe.br/worcap/2021/)*. National Institute for Space Research - INPE. (<a href=https://github.com/ricds/DL_RS_GEE/raw/main/Minicourse_DeepLearning_v1_WORCAP.pdf>Presentation Link</a>). (<a href=https://youtu.be/foRhRg6VaCQ>Video pt-br</a>).
 
 *Next events:*
 > 28/10/2021 - **Introduction to Google Earth Engine with R language.** *IEEE GRSS-ISPRS 2021.* http://grss-isprs.udesc.br/ <BR>
