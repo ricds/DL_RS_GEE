@@ -1,6 +1,6 @@
 # **DL_RS_GEE: Deep Learning with Remote Sensing imagery from Google Earth Engine with R language.**
 
-This repo provide code and dataset for an experiment with image segmentation of rice crops in southern Brazil based on Sentinel-2 data.
+This repo provide code and datasets for training in image segmentation with Deep Learning with Remote Sensing imagery. Experiment is an exercise on rice crops in southern Brazil based on Sentinel-2 data.
 
 Authors: Ricardo Dalagnol, Fabien Wagner
 
