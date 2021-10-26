@@ -2,8 +2,6 @@
 
 This repo provide code and datasets for training in image segmentation with Deep Learning with Remote Sensing imagery. Experiment is an exercise on rice crops in southern Brazil based on Sentinel-2 data.
 
-Authors: Ricardo Dalagnol, Fabien Wagner
-
 <BR>
 
 *Material was used at:*
