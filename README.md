@@ -25,16 +25,16 @@ This repo provide code and datasets for training in image segmentation with Deep
 # *Codes in R language:*
   
 **1) Acquiring imagery from Google Earth Engine directly within R**
+<BR>RGEE pre-installation - please take a look and follow this: *rgee_install_packages.R* (<a href=https://youtu.be/1-k6wNL2hlo>Video showing the installation in English</a>)
 <BR>R code: **To include**
-<BR>Procedures for RGEE pre-installation: *deep_learning_install_packages.R*
   
 >**To include: will be added as part of the IEEE-GRSS event Oct2021**
   
 <BR>
   
 **2) Applying deep learning to satellite imagery to map rice crops in the local GPU**
+<BR>Packages pre-installation - please Run this: *deep_learning_install_packages.R* 
 <BR>R code: *deep_learning_crop.R*
-<BR>R code for packages pre-installation: *deep_learning_install_packages.R*
 
 >i) Start with a raw satellite image<BR>
 >ii) Overlay it with samples and crop the data into patches<BR>
