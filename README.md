@@ -28,6 +28,7 @@ Authors: Ricardo Dalagnol, Fabien Wagner
   
 **1) Acquiring imagery from Google Earth Engine directly within R**
 <BR>R code: **To include**
+<BR>Procedures for RGEE pre-installation: *deep_learning_install_packages.R*
   
 >**To include: will be added as part of the IEEE-GRSS event Oct2021**
   
@@ -35,7 +36,7 @@ Authors: Ricardo Dalagnol, Fabien Wagner
   
 **2) Applying deep learning to satellite imagery to map rice crops in the local GPU**
 <BR>R code: *deep_learning_crop.R*
-<BR>R code for packages pre-installation: *install_packages_R.R*
+<BR>R code for packages pre-installation: *deep_learning_install_packages.R*
 
 >i) Start with a raw satellite image<BR>
 >ii) Overlay it with samples and crop the data into patches<BR>
