@@ -26,9 +26,11 @@ This repo provide code and datasets for training in image segmentation with Deep
   
 **1) Acquiring imagery from Google Earth Engine directly within R**
 <BR>RGEE pre-installation - please take a look and follow this: *rgee_install_packages.R* (<a href=https://youtu.be/1-k6wNL2hlo>Video showing the installation in English</a>)
-<BR>R code: **To include**
+<BR>R code: *rgee_basics.R*
+<BR>R code: *rgee_data_acquisition.R*
   
->**To include: will be added as part of the IEEE-GRSS event Oct2021**
+>In the rgee_basics, we see the basics of Google Earth Engine (GEE) in R, thus RGEE<BR>
+>In the rgee_data_acquisition, we have a nice script to acquire Sentinel-2 data for a Machine Learning & Deep Learning experiment<BR>
   
 <BR>
   
@@ -75,3 +77,4 @@ São José dos Campos-SP, Brazil<br>
 e-mails: ricds@hotmail.com ; ricardo.silva@inpe.br<br>
 phone: +55 12 98208-5089<br>
 https://ricds.wordpress.com/<br>
+Follow me on Twitter <a href=https://twitter.com/RicardoDalagnol>@RicardoDalagnol</a> :) <br>
