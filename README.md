@@ -47,7 +47,7 @@ This repo provide code and datasets for training in image segmentation with Deep
 >vi) Compare results with a previously produced Random Forests map<BR>
 
 <BR>
-
+  
 **3) Deep Learning with remote sensing data for image segmentation: example of rice crop mapping using Sentinel-2 images**
 <BR>Google Colab Jupyter notebook R code: *DL_UNet_CropExample.ipynb* - *link below for Google Colab*
 
@@ -59,6 +59,18 @@ This repo provide code and datasets for training in image segmentation with Deep
 >ii) Use the model to predict the class for all image patches
 
 <BR>
+  
+**4) Deep learning basics with MNIST dataset**
+<BR>Google Colab Jupyter notebook Python code: *tutorial_deep_learning_basics_MITmod.ipynb* - *link below for Google Colab*
+
+<a href="https://colab.research.google.com/github/ricds/DL_RS_GEE/blob/main/tutorial_deep_learning_basics_MITmod.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+  
+  <img src="https://i.imgur.com/eMF9FOG.gif" alt="MNIST Dream prediction"/>
+  
+  
+<BR>
 
 # *Dataset:*
   
@@ -68,6 +80,7 @@ This repo provide code and datasets for training in image segmentation with Deep
 
 Ricardo Dalagnol. (2021). Dataset for "Deep Learning with remote sensing data for image segmentation: example of rice crop mapping using Sentinel-2 images" (Version v1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.5504554
 
+  
 <BR>
   
 # *Contact*
